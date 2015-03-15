@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    link_header (0.0.8)
+    rdf (1.1.9)
+      link_header (~> 0.0, >= 0.0.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rdf
